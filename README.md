@@ -1,3 +1,3 @@
 # excel-challenge
-excel homework
-excel homwork and word document uploaded
+
+Nothing screams "I'm a professional!" like a good old fashioned Excel analysis.
