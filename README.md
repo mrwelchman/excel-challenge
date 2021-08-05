@@ -1,5 +1,5 @@
 # excel-challenge
-### Nothing screams "I'm a professional!" like some good old Excel analysis.
+### Nothing screams "I'm a professional!" like being able to handle Excel.
 
 
 
