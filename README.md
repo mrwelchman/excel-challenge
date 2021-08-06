@@ -42,4 +42,6 @@ Finally, here is a visualization and table that shows the rate of success or fai
 
 These are just a few examples of some Excel based visualizations. While this dataset is from Kickstarter, the same sort of analyzation and modifications and visualizations can be applied to other companies, industries, charities, pretty much anything that keeps records.
 
+In the Word file in this repository, you can read a few of the conclusions I was able to draw from the dataset as well as a few ideas for further information we can squeeze out of the data.
+
 Thanks for checking this out. Reach out with any questions.
